@@ -1,12 +1,11 @@
-# Roadmap Frontend 2024
+# Roteiro Front-End 2024
 
 <aside>
-✅ Aprenda a programar do zero ao profissional:
-https://mapadaprogramacao.com.br/
+✅ Aprenda a programar do zero ao profissional.
 </aside>
 <br/>
 <aside>
-⭐ Não deixe de deixar o seu start no repositório.
+⭐ Não deixe de deixar a sua estrela no repositório.
 </aside>
 
 
