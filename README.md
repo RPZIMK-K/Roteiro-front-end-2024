@@ -11,7 +11,8 @@
 
 # 1. Como funciona a internet?
 - Pesquisar artigos e vídeos de como funciona a internet
-- O que é HTTP
+- O que é HTTP?
+  PHypertext Transfer Protocol, ou Protocolo de Transferência de Hipertexto.
 - Funcionamento de um browser
 - DNS
 - Hosting
